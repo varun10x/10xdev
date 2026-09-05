@@ -1,0 +1,9 @@
+*{
+    --theme_color:#1484F4;
+    --text_color:#C3C0C5;
+    --bg_color:#000A1F;
+}
+
+#projects{
+    border-bottom: 2px solid var(--theme_color);
+}
